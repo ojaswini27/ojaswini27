@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ojaswini27
+- 👋 Hi, I’m Ojaswini Gavadi
 - 👀 I’m interested in AIML, Data Science, Web Development, App Development and others
 - 🌱 I’m currently pursuing BE in AIML at BNM Institute of Technology
 - 💞️ I’m looking to collaborate on various projects
