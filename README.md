@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ojaswini Gavadi
-- 👀 I’m interested in AIML, Data Science, Web Development, App Development and others
-- 🌱 I’m currently pursuing BE in AIML at BNM Institute of Technology
+- 👀 I’m interested in AIML, Data Science, Web Development and Full Stack Web Development.
+- 🌱 I’m currently pursuing BE in AIML at B.N.M Institute of Technology
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me :  email_id: ojaswinigavadi086@gmail.com
 
